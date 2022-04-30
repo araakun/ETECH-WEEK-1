@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ETECH LET'S CREATE WEEK 1</title>
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<style>
+		h1 {text-align: center; font-family: fantasy; font-size: xx-large; color: palegreen; font-size: xx-large;}
+		h2 {text-align: center; font-family: sans-serif; font-size: x-large; color: antiquewhite;}
+		h3 {text-align: center; font-size: large; font-family: monospace; color: ghostwhite;}
+		h4 {font-size: medium; font-family: serif; color: lawngreen;}
+		li {color: yellowgreen;}
+		img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			border-style: solid;
+			border-color: limegreen;
+			border-width: thick;
+			border-spacing: !important;
+		}
+		html{
+			background: url(background.png);
+
+		}
+		p{
+			font-size: 18px;
+			color: floralwhite;
+            line-height:18px;
+            text-align: justify;
+            text-indent: 50px;
+		}
+		a{
+			color: whitesmoke;
+		}
+	</style>
+</head>
+<body>
+
+	<header>
+		<h1>ABOUT ME</h1>
+	</header>
+
+	<div class="container">
+		<section id="main-bio">
+			<img src="ARA.jpg" class="center" width="175" height="225">
+			<h2><u>GONZAGA, ARABELLA GRACIE P.</u></h2>
+			<h3>BACHELOR OF SCIENCE IN COMPUTER SCIENCE</h3>
+			<p>
+				Arabella Gracie P. Gonzaga, often recognized as Ara, is a PNHS-MAIN STEM student. She refers to herself as a woman who is supercalifragilisticexpialidocious. She aspires to be a Software Engineer. She aspired to be a doctor at first because she wanted to help sick people who were less privileged to obtain medication. She also wanted to be a lawyer since she wanted to serve people who couldn't afford to pay a lawyer and help them receive justice. However, due to some financial matter, she opted to pursue a bachelor's degree in Computer Science. She is confident in her abilities to finish the course. Upon graduating, she intends to pursue a career in Software Engineering. 
+			</p>
+		</section>
+		<section id="contact-info">
+
+			<h4>CONTACT INFORMATION</h4>
+
+			<ul>
+				<li><strong>Email:</strong> <a href="mailto:aramazing318@gmail.com">aramazing318@gmail.com</a></li>
+				<li><strong>DEPED:</strong> <a href="mailto:arabellagracie.gonzaga@depedparanaquecity.com">arabellagracie.gonzaga@depedparanaquecity.com</a></li>
+				<li><strong>Github:</strong> <a href="https://github.com/araakun">https://github.com/araakun</a></li>
+				<li><strong>Facebook:</strong> <a href="https://www.facebook.com/ayumidaichifrost/">Ara Gonzaga</a></li>
+				<li><strong>Telegram:</strong> <a href="https://t.me/araaaxyvi">Arugh</a></li>
+			</ul>
+		</section>
+	</div>
+</body>
+</html>
